@@ -10,4 +10,9 @@
     <string name="quick_settings_caffeine_label">Caffeine</string>
     <string name="accessibility_quick_settings_caffeine_off">Caffeine off.</string>
     <string name="accessibility_quick_settings_caffeine_on">Caffeine on.</string>
+
+    <!-- Label for area where tiles can be added to the qs panel -->
+    <string name="drag_or_tap_to_add_tiles">Hold &amp; drag or tap to add tiles</string>
+    <!-- Label for the area where tiles can be dragged in to remove -->
+    <string name="drag_or_tap_to_remove_tiles">Hold &amp; drag or tap to remove tiles</string>
 </resources>
